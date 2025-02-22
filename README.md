@@ -1,14 +1,10 @@
-![Cloud Developer GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
-
 # ☁️🚀 Y N V Siva Ram Kumar Reddy
-
-![Profile GIF](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 
 **💻 PHP Laravel Developer | ☁️ Cloud & Azure Enthusiast | 🎯 3+ Years Experience | 🔧 Backend & Frontend Learner**
 
 📍 Hyderabad, India  
 📧 [sivaram.nikhil74@gmail.com](mailto:sivaram.nikhil74@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-siva-ram-y-90084512b/) | [GitHub](https://github.com/Nikhil-Sivaram/Nikhil-Portfolio)
 
 ---
 
@@ -17,6 +13,7 @@
 Experienced **PHP Laravel Developer** with a strong background in **designing, developing, and optimizing** high-performance web applications. Passionate about **Cloud Computing, Azure Technologies, and Web Development**, constantly learning new technologies to enhance efficiency.
 
 ### 🎯 Objective
+
 Committed to writing clean, efficient, and maintainable code that aligns with project goals and improves application performance.
 
 🛠️ **Proficient in:** PHP, Laravel, MySQL, JavaScript, HTML, CSS  
@@ -39,14 +36,12 @@ Committed to writing clean, efficient, and maintainable code that aligns with pr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Skills GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 ---
 
 ## 💼 Work Experience
 
-### Senior Systems Engineer
-**Infosys, Hyderabad | 11/2021 - Present**
+### Senior Systems Engineer  
+**Infosys, Hyderabad | 11/2021 - Present**  
 
 - Developed and maintained responsive web applications using PHP, MySQL, HTML, CSS, and JavaScript.
 - Collaborated with cross-functional teams to gather requirements, design solutions, and implement features according to client specifications.
@@ -59,8 +54,9 @@ Committed to writing clean, efficient, and maintainable code that aligns with pr
 ### Notable Projects:
 
 #### Educational Institute Platform (OU Projects: Help Centre & Community)
-- **Role:** Web Developer
-- **Technologies Used:** PHP, Laravel, HTML, CSS, JavaScript, MySQL, Bootstrap, jQuery, Kentico and Prismic CMS, Android, Git, Azure DevOps
+
+- **Role:** Web Developer  
+- **Technologies Used:** PHP, Laravel, HTML, CSS, JavaScript, MySQL, Bootstrap, jQuery, Kentico and Prismic CMS, Android, Git, Azure DevOps  
 - **Responsibilities:**
   - Designed and developed responsive user interfaces.
   - Managed and updated content using Kentico and Prismic CMS.
@@ -70,7 +66,8 @@ Committed to writing clean, efficient, and maintainable code that aligns with pr
   - Configured and managed Azure CI/CD pipelines.
 
 #### Learning Design Tool (OU Project)
-- **Role:** Software Developer
+
+- **Role:** Software Developer  
 - **Responsibilities:**
   - Developed a subject registration system using core PHP and JavaScript.
   - Created dynamic and secure server-side functionalities.
@@ -93,7 +90,4 @@ Committed to writing clean, efficient, and maintainable code that aligns with pr
 🔹 **LinkedIn:** [Click Here](https://www.linkedin.com/in/nikhil-siva-ram-y-90084512b/)  
 🔹 **GitHub:** [Click Here](https://github.com/Nikhil-Sivaram/Nikhil-Portfolio)  
 
-✨ _Let's innovate with Cloud & Web Technologies together!_ 🚀
-
----
-
+✨ *Let's innovate with Cloud & Web Technologies together!* 🚀
